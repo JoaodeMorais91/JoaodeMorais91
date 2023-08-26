@@ -7,7 +7,7 @@
 
 ![Joao de Morais GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaodeMorais91&show_icons=true&theme=radical)
 
-## Minha Rede Social!
+## Minhas Redes Sociais!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/odemorais_joao)
 [![Whatsap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/67984713038)
 #### Quer saber oque ainda motiva? Me diz algo mais motivador do que não ter saida! ###
