@@ -9,6 +9,6 @@
 
 ## Minha Rede Social!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/odemorais_joao)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://joaoclebermorais@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://joaoclebermorais91@gmail.com)
 
 #### Quer saber oque ainda motiva? Me diz algo mais motivador do que não ter saida! ###
