@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Essas são as Tecnologias que ultilizo! 🖐️
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
-<!--
-**JoaodeMorais91/JoaodeMorais91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Joao de Morais GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaodeMorais91&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## Minha Rede Social!
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/odemorais_joao)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://joaoclebermorais@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Quer saber oque ainda motiva? Me diz algo mais motivador do que não ter saida! ###
